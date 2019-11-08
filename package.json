@@ -1,0 +1,29 @@
+{
+    "name": "threejs_learning",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "main": "index.js",
+    "lib": {
+        "webpack": "./node_modules./.bin./webpack"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "webpack": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Trubasa/threejs_learning.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Trubasa/threejs_learning/issues"
+    },
+    "homepage": "https://github.com/Trubasa/threejs_learning#readme",
+    "devDependencies": {
+        "webpack": "^4.41.2",
+        "webpack-cli": "^3.3.10"
+    }
+}
