@@ -24,6 +24,6 @@
     "homepage": "https://github.com/Trubasa/threejs_learning#readme",
     "devDependencies": {
         "webpack": "^4.41.2",
-        "webpack-cli": "^3.3.10"
+        "webpack-cli": "^3.3.12"
     }
 }
